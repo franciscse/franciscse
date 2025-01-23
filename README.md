@@ -1,12 +1,8 @@
 <br clear="both">
-
 <h2 align="left">Hi there, I'm Francis A 👋</h2>
-
-###
-
 <br clear="both">
 
-<p align="left">*   🎓 Graduated in Computer Science and Engineering from Dr. G.U. Pope College of Engineering (2020-2024) with a CGPA of 7.9.<br>*   📍 Based in Chennai, India (Originally from Thoothukudi, Tamil Nadu).<br>*   💻 Proficient in backend development with a foundation in Java.<br>*   🌐 Self-taught basics of frontend development (HTML, CSS, JavaScript).<br>*   ⚡ Quick learner, problem-solver, and team player with strong communication skills.</p>
+ *🎓 Graduated in Computer Science and Engineering from Dr. G.U. Pope College of Engineering (2020-2024) with a CGPA of 7.9<br> 📍 Based in Chennai, India (Originally from Thoothukudi, Tamil Nadu).<br>  💻 Proficient in backend development with a foundation in Java.<br> 🌐 Self-taught basics of frontend development (HTML, CSS, JavaScript).<br>   ⚡ Quick learner, problem-solver, and team player with strong communication skills.*
 
 ###
 
