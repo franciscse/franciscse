@@ -4,7 +4,7 @@
 
  *🎓 Graduated in Computer Science and Engineering from Dr. G.U. Pope College of Engineering (2020-2024) with a CGPA of 7.9<br> 📍 Based in Chennai, India (Originally from Thoothukudi, Tamil Nadu).<br>  💻 Proficient in backend development with a foundation in Java.<br> 🌐 Self-taught basics of frontend development (HTML, CSS, JavaScript).<br>   ⚡ Quick learner, problem-solver, and team player with strong communication skills.*
 
-###
+## 💻Tech Stack :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="37" alt="java logo"  />
@@ -27,9 +27,9 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
 </div>
+<br clear="both">
 
-
-###
+## 🌐Social :
 
 <div align="left">
   <a href="https://www.linkedin.com/in/franciscse" target="_blank">
@@ -51,8 +51,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+<br clear="both">
 
-###
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=franciscse&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
